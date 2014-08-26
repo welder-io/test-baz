@@ -1,0 +1,9 @@
+{
+  "name": "test-baz",
+  "version": "0.2.0",
+  "description": "test repo for gitfuse",
+  "private": true,
+  "gitfuseDependencies": {
+    "test-qux": "master"
+  }
+}
